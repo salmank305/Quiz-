@@ -154,12 +154,9 @@ function submitBtn(){
         oncall();
         starting(); 
     
-    }
-   
+    }  
 }
-
-
-/* quiz for javascript*/
+//end //
 
 
 
