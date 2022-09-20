@@ -24,31 +24,6 @@ const quizData = [
         option:["1.Boolean","2.Undefined","3.Object","4.Integer"],
         answer:"3.Object",
     }
-    // {
-    //     q:"Q.6 What is the National  Heritage Animal. ",
-    //     option:["1.Sheep","2.Cow","3.Deer","4.Elephant"],
-    //     answer:"4.Elephant",
-    // },
-    // {
-    //     q:"Q.7 What is the National  Aquatic Animal of India.",
-    //     option:["1.Dolphin","2.Fish","3.Octopus","4.Whale"],
-    //     answer:"1.Dolphin",
-    // },
-    // {
-    //     q:"Q.8 What is the National Reptile of India.",
-    //     option:["1.Crocodile","2.Earthwarm","3.Lizard","4.King Cobra"],
-    //     answer:"4.King Cobra",
-    // },
-    // {
-    //     q:"Q.9 Who designed Indian National Flag. ",
-    //     option:["1.Dr. B.R. Ambedkat","2.Nehru","3.Dr. Sarvepalli Radhakrishnan","4.Pingali Venkayya"],
-    //     answer:"4.Pingali Venkayya",
-    // },
-    // {
-    //     q:"Q.10 The motto on National Emblem is_______________.",
-    //     option:["1.Satyameva Jayate","2.Vruksho Rakshitha Rakshithaha","3.Vande mataram","4.Jai Hind"],
-    //     answer:"4.Jai Hind",
-    // }
 ];
 
 
