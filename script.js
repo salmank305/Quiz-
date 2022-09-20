@@ -25,10 +25,6 @@ const quizData = [
         answer:"3.Object",
     }
 ];
-
-
-
-
 let landingPage = document.querySelector('#question-box');
 
 landingPage.innerHTML = '<h1>Start Quiz</h1><br>Click on Next';
@@ -122,9 +118,6 @@ function oncall(){
 }
 
 
-
-
-
 let d=0;
 function submitBtn(){
 
@@ -144,24 +137,17 @@ function submitBtn(){
     if(score>=5){
         emoji.src = "firework-1.webp";
         emoji.style = "width:100%; height:83%;";
-        // emoji.style="border-radius:10%"
-     
-
+       
     }else{
         emoji.src = "f.gif";
         emoji.style = "width:50%; height:70%";
     }
-
-    // question.style.background = "black"
     gifContainer.appendChild(emoji);
     question.appendChild(gifContainer);
-
     
-
     subBtn.innerHTML = "Try Again";
     subBtn.style = ` background: #1E5128; color: #D8E9A8;`;
     if(d>1){
-        // question.style.background = "none"
         score = 0;
         k=0;
         d=0;
@@ -173,7 +159,7 @@ function submitBtn(){
 }
 
 
-
+/* quiz for javascript*/
 
 
 
